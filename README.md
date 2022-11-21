@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on: 
 Instagram: debix.cr2 
-gmail: andre.maluu999@gmail.com
+gmail: work.andrew.naida@gmail.com
+
 
