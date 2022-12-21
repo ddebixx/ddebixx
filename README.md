@@ -1,6 +1,6 @@
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=ddebixx&show_icons=true&theme=radical" />
+<img src ="https://github-readme-stats.vercel.app/api?username=ddebixx&show_icons=true&bg_color=00000000" />
 
 - 👋 Hi there, I’m Andrew
 - 👀 I’m interested in front-end development
