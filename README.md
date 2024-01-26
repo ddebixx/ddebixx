@@ -5,7 +5,7 @@
 - 📫 How to reach me on: <br/>
     Instagram: [debix.cr2 ](https://www.instagram.com/debix.cr2/?next=%2F) <br/>
     Gmail: work.andrew.naida@gmail.com <br/>
-- My blog: [click here👉🏻👈🏻](https://debix.vercel.app/)
+- My web-site: [click here👉🏻👈🏻](https://debix.vercel.app/)
  
 <h2> Technologies I use in my projects: </h3>
 
