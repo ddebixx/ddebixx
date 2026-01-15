@@ -1,11 +1,4 @@
 <h1>👋 Hi there, I’m Andrew</h1>
-
-
-- I’m a computer science student who is in love with front-end development and photography 😍
-- 📫 How to reach me on: <br/>
-    Instagram: [debix.cr2 ](https://www.instagram.com/debix.cr2/?next=%2F) <br/>
-    Gmail: work.andrew.naida@gmail.com <br/>
-- My web-site: [click here👉🏻👈🏻](https://debix.vercel.app/)
  
 <h2> Technologies I use in my projects: </h3>
 
@@ -53,17 +46,3 @@
 </div>
 
 <br/>
-
-<div>
-  <h2>Technologies I'm keen to learn:</h2>
-</div>
-
-<div>
-  <h3>Mobile frameworks:</h3>
-
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-</div>
-
-<br/>
-
-<img src ="https://github-readme-stats.vercel.app/api?username=ddebixx&show_icons=true&bg_color=00000000" />
