@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Andrew
 
-💻 Frontend / Fullstack Developer
-🚀 Passionate about building modern web & mobile applications
+💻 Fullstack Developer
 
 </div>
 
@@ -66,12 +65,4 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
----
-
-<div align="center">
-
-### 🤝 Let's connect & build something cool
-
-</div>
 
